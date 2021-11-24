@@ -29,7 +29,7 @@ iterable - iterator - generator 순서로 상속이 된다고 한다.
 * 제너레이터는 yield와 제너레이터 표현식을 이용해 작성가능하다.
 
 ## 그외 시도해볼 것들
-* Iterator 클래스의 __abstractmethods__ 속성을 출력해서 어떤것이 꼭 구현되어있어야 하는지를 파악 한 블로그가 있었다.
+* Iterator 클래스의 `__abstractmethods__` 속성을 출력해서 어떤것이 꼭 구현되어있어야 하는지를 파악 한 블로그가 있었다.
   * https://engineer-mole.tistory.com/64
 * 제너레이터 yield는 값을 내보내기도 하지만 받아서 사용할 수 도 있다.
 * yield from 이라는 키워드도 있다.
