@@ -8,7 +8,7 @@ iterable - iterator - generator 순서로 상속이 된다고 한다.
 
 아래의 그림은 큰 도움이 되었다.
 
-[!관계도](image.png)
+![관계도](image.png)
 
 * list, tuple, set은 컨테이너이고, iterable를 상속받지만 iterator를 상속받진 않았다. 
 
